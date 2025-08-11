@@ -67,3 +67,4 @@ while rodando:
     desenharCatavento()
     pygame.time.wait(50)
 pygame.quit()
+
